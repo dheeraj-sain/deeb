@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deeb/static/css/main.f855e6bc.css",
+    "main.js": "/deeb/static/js/main.903ae842.js",
+    "static/js/453.1e1542a4.chunk.js": "/deeb/static/js/453.1e1542a4.chunk.js",
+    "static/media/logo.svg": "/deeb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/deeb/index.html",
+    "main.f855e6bc.css.map": "/deeb/static/css/main.f855e6bc.css.map",
+    "main.903ae842.js.map": "/deeb/static/js/main.903ae842.js.map",
+    "453.1e1542a4.chunk.js.map": "/deeb/static/js/453.1e1542a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.903ae842.js"
+  ]
+}
